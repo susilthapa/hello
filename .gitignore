@@ -1,0 +1,30 @@
+# Compiled Python files
+*.pyc
+
+# Compiled Cython files
+*.pyd
+
+# Cache files
+*.npy
+
+# Distribution files
+*.egg-info
+.eggs
+dist
+build
+
+# Test files
+*.pytest_cache
+.pytest_cache
+
+# Translations
+*.mo
+*.pot
+
+# Other files
+.cache
+.coverage
+.tox
+.hypothesis
+.mypy_cache
+.vscode
